@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Biography
+I am a Phd. student in department of Computer Science and Technology, [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University), supervised by [Prof. Jinsong Han](https://scholar.google.com/citations?user=BST50KwAAAAJ&hl=en). Formerly I spent five and half years for B.E. and M.E in this campus on Computer Science supervised by [Prof. Yinliang Zhao](https://scholar.google.com/citations?user=o-DXXd4AAAAJ&hl=en).  Currently I am a visiting student of Human Sensing Lab and DeLight Lab, The Robostics Institute, Carnegie Mellon University supervised by [Dr. Dong Huang](https://www.donghuang-research.com/). My research interest is building novel sensory systems for human sensing.
 
-You can use the [editor on GitHub](https://github.com/geekfeiw/geekfeiw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Person-in-WiFi: Fine-grained Person Perception using WiFi  
+**Fei Wang**, Sanping Zhou, Stnislav Panev, Jinsong Han, and Dong Huang  
+[arxiv](), 2019.
 
-```markdown
-Syntax highlighted code block
+SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection  
+Sanping Zhou, Jinjun Wang **Fei Wang**, and Dong Huang  
+[arxiv](), 2019.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Can WiFi Estimate Person Pose?  
+**Fei Wang**, Stanislav Panev, Ziyi Dai, Jinsong Han, and Dong Huang  
+[arxiv](), [code](https://github.com/geekfeiw/WiSPPN), 2019
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Motor Fault Diagnosis Under Non-stationary Conditions Using Cascade Convolutional Neural Network  
+Ruonan Liua, **Fei Wang**, Boyuan Yang, and Xuefeng Chen  
+_under MSSP review_,  [code](), 2019
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Multi-scale Kernel based Residual Convolutional Neural Network for Motor Fault Diagnosis Under Nonstationary Conditions  
+Ruonan Liu, **Fei Wang**, and Boyuan Yang  
+_under TII review_,  [code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 2019
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geekfeiw/geekfeiw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Continuous User Authentication by Contactless Wireless Sensing  
+**Fei Wang**, Zhenjiang Li, and Jinsong Han  
+[arxiv](https://arxiv.org/abs/1812.01503), 2018, (minor in [IoTJ](http://ieee-iotj.org/))
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+CSI-Net: Unified Human Body Characterization and Pose Recognition  
+**Fei Wang**, Jinsong Han, Shiyuan Zhang, Xu He, and Dong Huang  
+[arxiv](https://arxiv.org/abs/1810.03064), [code](https://github.com/geekfeiw/CSI-Net), 2018
+
+
+WiPIN: Operation-free Person Identification using WiFi Signals  
+**Fei Wang**, Jinsong Han, Ziyi Dai, Han Ding, and Dong Huang  
+[arxiv](https://arxiv.org/abs/1810.04106), 2018
+
+
+Security in Uplink MU-MIMO Networks  
+**Fei Wang**, Wei Xi, Jinsong Han, Kun Zhao, and Yuan Gao  
+[poster of IoTDI](http://delivery.acm.org/10.1145/3060000/3057325/p351-Wang.pdf?ip=128.237.209.151&id=3057325&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1553972034_174b69f2e5a306a1905e1d2b055dd74e), 2017
+
+QUICK: Pursuing Qualified CSI for MU-MIMO Networks  
+Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian  
+[poster of HotMobile](http://www.hotmobile.org/2017/papers/posters/WeiXi.pdf), 2017
+
+
+### Awards
+
+China Scholarship Council Fellowship
+2nd Prize of China High School Biology Olympiad
+3rd Prize of China High School Chemistry Olympiad
