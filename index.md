@@ -56,6 +56,6 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 
 ### Awards
 
-China Scholarship Council Fellowship
-2nd Prize of China High School Biology Olympiad
+China Scholarship Council Fellowship  
+2nd Prize of China High School Biology Olympiad  
 3rd Prize of China High School Chemistry Olympiad
