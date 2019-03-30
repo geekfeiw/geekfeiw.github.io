@@ -6,7 +6,7 @@ I am a Phd. student in department of Computer Science and Technology, [Xi'an Jia
 
 
 Person-in-WiFi: Fine-grained Person Perception using WiFi  
-**Fei Wang**, Sanping Zhou, Stnislav Panev, Jinsong Han, and Dong Huang  
+**Fei Wang**, Sanping Zhou, Stanislav Panev, Jinsong Han, and Dong Huang  
 [arxiv](), 2019.
 
 SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection  
