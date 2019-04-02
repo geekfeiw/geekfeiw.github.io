@@ -7,22 +7,22 @@ I am a Phd. student in department of Computer Science and Technology, [Xi'an Jia
 
 Person-in-WiFi: Fine-grained Person Perception using WiFi  
 **Fei Wang**, Sanping Zhou, Stanislav Panev, Jinsong Han, and Dong Huang  
-[arxiv](), 2019.
+[arxiv](https://arxiv.org/abs/1904.00276), 2019.
 
-SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection  
-Sanping Zhou, Jinjun Wang **Fei Wang**, and Dong Huang  
-[arxiv](), 2019.
+SE<sup>2</sup>Net: Siamese Edge-Enhancement Network for Salient Object Detection  
+Sanping Zhou, Jinjun Wang, **Fei Wang**, and Dong Huang  
+[arxiv](https://arxiv.org/abs/1904.00048), 2019
 
 
 Can WiFi Estimate Person Pose?  
 **Fei Wang**, Stanislav Panev, Ziyi Dai, Jinsong Han, and Dong Huang  
-[arxiv](), [code](https://github.com/geekfeiw/WiSPPN), 2019
+[arxiv](https://arxiv.org/abs/1904.00277), [code](https://github.com/geekfeiw/WiSPPN), 2019
 
 
 
 Motor Fault Diagnosis Under Non-stationary Conditions Using Cascade Convolutional Neural Network  
-Ruonan Liua, **Fei Wang**, Boyuan Yang, and Xuefeng Chen  
-_under MSSP review_,  [code](), 2019
+Ruonan Liu, **Fei Wang**, Boyuan Yang, and Xuefeng Chen  
+_under MSSP review_,  [code](https://github.com/geekfeiw/fpn-motor-fault), 2019
 
 
 Multi-scale Kernel based Residual Convolutional Neural Network for Motor Fault Diagnosis Under Nonstationary Conditions  
@@ -54,7 +54,7 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 [poster of HotMobile](http://www.hotmobile.org/2017/papers/posters/WeiXi.pdf), 2017
 
 
-### Awards
+## Awards
 
 China Scholarship Council Fellowship  
 2nd Prize of China High School Biology Olympiad  
