@@ -61,4 +61,4 @@ China Scholarship Council Fellowship
 3rd Prize of China High School Chemistry Olympiad
 
 
-![Brooklyn](fig/Brooklyn.jpg)
+![Brooklyn](fig/NASA.jpeg)
