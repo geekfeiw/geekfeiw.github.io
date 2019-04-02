@@ -61,3 +61,4 @@ China Scholarship Council Fellowship
 3rd Prize of China High School Chemistry Olympiad
 
 
+![cmu](fig/cmu.jpg)
