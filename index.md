@@ -51,9 +51,9 @@ WiPIN: Operation-free Person Identification using WiFi Signals
 [arxiv](https://arxiv.org/abs/1810.04106), 2018
 
 
-Security in Uplink MU-MIMO Networks  
+Poster Abstract: Security in Uplink MU-MIMO Networks  
 **Fei Wang**, Wei Xi, Jinsong Han, Kun Zhao, and Yuan Gao  
-[poster of IoTDI](http://delivery.acm.org/10.1145/3060000/3057325/p351-Wang.pdf?ip=128.237.209.151&id=3057325&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1553972034_174b69f2e5a306a1905e1d2b055dd74e), 2017
+[poster of IoTDI](https://ieeexplore.ieee.org/document/7946922), 2017
 
 QUICK: Pursuing Qualified CSI for MU-MIMO Networks  
 Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian  
