@@ -4,6 +4,12 @@ I am a Phd. student in department of Computer Science and Technology, [Xi'an Jia
 
 ## Publications
 
+Joint Activity Recognition and Indoor Localization  
+**Fei Wang**, Jianwei Feng, Yinliang Zhao, Xiaobin Zhang, Shiyuan Zhang, and Jinsong Han  
+[arxiv](), 2019.
+
+
+
 
 Person-in-WiFi: Fine-grained Person Perception using WiFi  
 **Fei Wang**, Sanping Zhou, Stanislav Panev, Jinsong Han, and Dong Huang  
