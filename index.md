@@ -6,7 +6,7 @@ I am a Phd. student in department of Computer Science and Technology, [Xi'an Jia
 
 Joint Activity Recognition and Indoor Localization  
 **Fei Wang**, Jianwei Feng, Yinliang Zhao, Xiaobin Zhang, Shiyuan Zhang, and Jinsong Han  
-[arxiv](), 2019.
+[arxiv](), [code](https://github.com/geekfeiw/apl), [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o), 2019.
 
 
 
