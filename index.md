@@ -4,7 +4,7 @@ I am a Phd. student in department of Computer Science and Technology, [Xi'an Jia
 
 ## Publications
 
-Joint Activity Recognition and Indoor Localization with WiFi 
+Joint Activity Recognition and Indoor Localization with WiFi  
 **Fei Wang**, Jianwei Feng, Yinliang Zhao, Xiaobin Zhang, Shiyuan Zhang, and Jinsong Han  
 [arxiv](), [code](https://github.com/geekfeiw/apl), [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o), 2019.
 
