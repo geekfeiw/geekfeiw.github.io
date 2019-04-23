@@ -19,16 +19,17 @@ Joint Activity Recognition and Indoor Localization with WiFi Fingerprints
 
 Person-in-WiFi: Fine-grained Person Perception using WiFi  
 **Fei Wang**, Sanping Zhou, Stanislav Panev, Jinsong Han, and Dong Huang  
-[arxiv](https://arxiv.org/abs/1904.00276), [code](https://github.com/geekfeiw/wifiperson), 2019.
-
-SE<sup>2</sup>Net: Siamese Edge-Enhancement Network for Salient Object Detection  
-Sanping Zhou, Jinjun Wang, **Fei Wang**, and Dong Huang  
-[arxiv](https://arxiv.org/abs/1904.00048), 2019
+[arxiv](https://arxiv.org/abs/1904.00276), [code](https://github.com/geekfeiw/wifiperson), 2019
 
 
 Can WiFi Estimate Person Pose?  
 **Fei Wang**, Stanislav Panev, Ziyi Dai, Jinsong Han, and Dong Huang  
 [arxiv](https://arxiv.org/abs/1904.00277), [code](https://github.com/geekfeiw/WiSPPN), 2019
+
+
+SE<sup>2</sup>Net: Siamese Edge-Enhancement Network for Salient Object Detection  
+Sanping Zhou, Jinjun Wang, **Fei Wang**, and Dong Huang  
+[arxiv](https://arxiv.org/abs/1904.00048), 2019
 
 
 
