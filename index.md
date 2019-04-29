@@ -7,7 +7,7 @@ My research interest is building novel sensory systems for human sensing.
 
 Temporal Unet: Sample Level Human Action Recognition using WiFi  
 **Fei Wang**, Yunpeng Song, Jimuyang Zhang, Jinsong Han, and Dong Huang  
-[arxiv](), [code](https://github.com/geekfeiw/WiSLAR), [data](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9Iw), 2019
+[arxiv](https://arxiv.org/abs/1904.11953), [code](https://github.com/geekfeiw/WiSLAR), [data](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9Iw), 2019
 
 
 Joint Activity Recognition and Indoor Localization with WiFi Fingerprints  
