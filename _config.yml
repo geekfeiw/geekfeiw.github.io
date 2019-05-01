@@ -4,3 +4,5 @@ description: feiwang at cmu dot edu
 logo: fig/logo_starry.jpg
 show_downloads: false
 google_analytics:
+plugins:
+  - jemoji
