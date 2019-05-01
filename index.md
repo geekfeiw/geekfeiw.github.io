@@ -2,6 +2,8 @@
 I am a Phd. student in department of Computer Science and Technology, [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University), advised by [Prof. Jinsong Han](https://scholar.google.com/citations?user=BST50KwAAAAJ&hl=en). Formerly I spent five and half years for B.E. and M.E in this campus on Computer Science, advised by [Prof. Yinliang Zhao](https://scholar.google.com/citations?user=o-DXXd4AAAAJ&hl=en).  Currently I am a visiting student of Human Sensing Lab and DeLight Lab, The Robostics Institute, Carnegie Mellon University, advised by [Dr. Dong Huang](https://www.donghuang-research.com/).  
 My research interest is building novel sensory systems for human sensing.
 
+## News
+Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted by [IoTJ](http://ieee-iotj.org/), May 1, 2019.
 
 ## Publications
 
@@ -45,7 +47,7 @@ _under TII review_,  [code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 
 
 Continuous User Authentication by Contactless Wireless Sensing  
 **Fei Wang**, Zhenjiang Li, and Jinsong Han  
-[arxiv](https://arxiv.org/abs/1812.01503), 2018, (minor in [IoTJ](http://ieee-iotj.org/), IF: 5.863)
+[arxiv](https://arxiv.org/abs/1812.01503), 2018, ([IoTJ](http://ieee-iotj.org/), IF: 5.863)
 
 
 CSI-Net: Unified Human Body Characterization and Pose Recognition  
