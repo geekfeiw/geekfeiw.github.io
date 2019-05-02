@@ -3,7 +3,7 @@ I am a Phd. student in department of Computer Science and Technology, [Xi'an Jia
 My research interest is building novel sensory systems for human sensing.
 
 ## News
-:boom: Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published [IoTJ](http://ieee-iotj.org/), May 1, 2019.
+:boom: Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019.
 
 ## Publications
 
@@ -47,7 +47,7 @@ _under TII review_,  [code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 
 
 Continuous User Authentication by Contactless Wireless Sensing  
 **Fei Wang**, Zhenjiang Li, and Jinsong Han  
-[arxiv](https://arxiv.org/abs/1812.01503), 2018, ([IoTJ](http://ieee-iotj.org/), IF: 5.863)
+[arxiv](https://arxiv.org/abs/1812.01503), 2018, ([IEEE IoTJ](http://ieee-iotj.org/), IF: 5.863)
 
 
 CSI-Net: Unified Human Body Characterization and Pose Recognition  
