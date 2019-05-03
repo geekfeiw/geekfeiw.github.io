@@ -57,7 +57,7 @@ CSI-Net: Unified Human Body Characterization and Pose Recognition
 
 WiPIN: Operation-free Person Identification using WiFi Signals  
 **Fei Wang**, Jinsong Han, Ziyi Dai, Han Ding, and Dong Huang  
-[arxiv](https://arxiv.org/abs/1810.04106), 2018
+[arxiv](https://arxiv.org/abs/1810.04106), [code](https://github.com/geekfeiw/WiPIN), 2018
 
 
 Poster Abstract: Security in Uplink MU-MIMO Networks  
