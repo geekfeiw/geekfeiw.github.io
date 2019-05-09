@@ -71,7 +71,8 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 
 ## Awards
 
-China Scholarship Council Fellowship  
+China Scholarship Council Fellowship
+3rd Prize of Software Design (China Western Conference)
 2nd Prize of China High School Biology Olympiad  
 3rd Prize of China High School Chemistry Olympiad
 
