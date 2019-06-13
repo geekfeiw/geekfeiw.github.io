@@ -3,7 +3,11 @@ I am a Phd. student in department of Computer Science and Technology, [Xi'an Jia
 My research interest is building novel sensory systems for human sensing.
 
 ## News
-:boom: Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019.
+
+:boom: Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints  
+](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access](https://ieeeaccess.ieee.org/), Jue 13, 2019.  
+
+Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019.
 
 ## Publications
 
