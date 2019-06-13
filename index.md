@@ -18,7 +18,7 @@ Temporal Unet: Sample Level Human Action Recognition using WiFi
 
 Joint Activity Recognition and Indoor Localization with WiFi Fingerprints  
 **Fei Wang**, Jianwei Feng, Yinliang Zhao, Xiaobin Zhang, Shiyuan Zhang, and Jinsong Han  
-[arxiv](https://arxiv.org/abs/1904.04964), [code](https://github.com/geekfeiw/apl), [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o), 2019
+[arxiv](https://arxiv.org/abs/1904.04964), [code](https://github.com/geekfeiw/apl), [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o), 2019, ([IEEE Access](https://ieeeaccess.ieee.org/), IF: 3.557)
 
 
 
