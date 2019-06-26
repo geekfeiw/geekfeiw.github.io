@@ -4,9 +4,9 @@ My research interest is building novel sensory systems for human sensing.
 
 ## News
 
-:boom: Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
+:boom: Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access, IF:4.098](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
 
-Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019.
+Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published in [IEEE IoTJ, IF:5.863](http://ieee-iotj.org/), May 1, 2019.
 
 ## Publications
 
@@ -17,9 +17,7 @@ Temporal Unet: Sample Level Human Action Recognition using WiFi
 
 Joint Activity Recognition and Indoor Localization with WiFi Fingerprints  
 **Fei Wang**, Jianwei Feng, Yinliang Zhao, Xiaobin Zhang, Shiyuan Zhang, and Jinsong Han  
-[arxiv](https://arxiv.org/abs/1904.04964), [code](https://github.com/geekfeiw/apl), [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o), 2019, ([IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), IF: 3.557)
-
-
+[arxiv](https://arxiv.org/abs/1904.04964), [code](https://github.com/geekfeiw/apl), [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o), 2019, ([IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), IF: 4.098)
 
 
 Person-in-WiFi: Fine-grained Person Perception using WiFi  
