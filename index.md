@@ -4,9 +4,9 @@ My research interest is building novel sensory systems for human sensing.
 
 ## News
 
-:boom: Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access, IF:4.098](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
+:boom: Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
 
-Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published in [IEEE IoTJ, IF:5.863](http://ieee-iotj.org/), May 1, 2019.
+Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019.
 
 ## Publications
 
