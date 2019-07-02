@@ -48,7 +48,7 @@ _under TII review_,  [code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 
 
 Continuous User Authentication by Contactless Wireless Sensing  
 **Fei Wang**, Zhenjiang Li, and Jinsong Han  
-[arxiv](https://arxiv.org/abs/1812.01503), 2018, ([IEEE IoTJ](http://ieee-iotj.org/), IF: 5.863)
+[arxiv](https://arxiv.org/abs/1812.01503), 2018, ([IEEE IoTJ](http://ieee-iotj.org/), IF: 9.515)
 
 
 CSI-Net: Unified Human Body Characterization and Pose Recognition  
