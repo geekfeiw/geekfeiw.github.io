@@ -74,7 +74,6 @@ WiPIN: Operation-free Person Identification using WiFi Signals
 
 
 
-
 ## Awards
 
 China Scholarship Council Fellowship  
@@ -82,6 +81,10 @@ China Scholarship Council Fellowship
 3rd Prize of China High School Chemistry Olympiad
 
 ## Sponsors
+
+ <img src="./sponsors/nsfc.jpeg" width = "22%" height = "22%" alt="nsfc" /> <img src="./sponsors/csc.png" width = "25%" height = "25%" alt="nsfc" /> <img src="./sponsors/grc.jpg" width = "25%" height = "25%" alt="nsfc" />
+
+
 
 
 
