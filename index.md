@@ -82,7 +82,7 @@ China Scholarship Council Fellowship
 
 ## Sponsors
 
- <img src="./sponsors/nsfc.jpeg" width = "22%" height = "22%" alt="nsfc" /> <img src="./sponsors/csc.png" width = "25%" height = "25%" alt="nsfc" /> <img src="./sponsors/grc.jpg" width = "25%" height = "25%" alt="nsfc" />
+ <img src="./sponsors/nsfc.jpeg" width = "25%" height = "25%" alt="nsfc" /> <img src="./sponsors/csc.png" width = "28%" height = "28%" alt="nsfc" /> <img src="./sponsors/grc.jpg" width = "28%" height = "28%" alt="nsfc" />
 
 
 
