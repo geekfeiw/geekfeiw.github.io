@@ -4,7 +4,7 @@ My research interest is building novel sensory systems for human sensing.
 
 ## News
 
-:boom: Our paper, WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals, accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a lagship conference of the IEEE Communications Society.
+:boom: Our paper, WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals, accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a flagship conference of the IEEE Communications Society.
 
 Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
 
