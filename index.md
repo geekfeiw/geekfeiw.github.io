@@ -4,7 +4,12 @@ My research interest is building novel sensory systems for human sensing.
 
 ## News
 
-:boom: Our paper, WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals, accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a flagship conference of the IEEE Communications Society. July 18, 2019.
+:boom::yum: Our paper, Person-in-WiFi: Fine-grained Person Perception using WiFi, accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019.
+
+:yum: Our paper, Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification
+, accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019.
+
+:yum: Our paper, WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals, accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a flagship conference of the IEEE ComSoc, July 18, 2019.
 
 Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
 
@@ -24,6 +29,11 @@ Continuous User Authentication by Contactless Wireless Sensing
 [arxiv](https://arxiv.org/abs/1812.01503), 2018, ([IEEE IoTJ](http://ieee-iotj.org/), IF: 9.515)
 
 ### Conference
+
+Person-in-WiFi: Fine-grained Person Perception using WiFi  
+**Fei Wang**, Sanping Zhou, Stanislav Panev, Jinsong Han, and Dong Huang  
+[ICCV 2019](http://iccv2019.thecvf.com/), [arxiv](https://arxiv.org/abs/1904.00276), [code](https://github.com/geekfeiw/wifiperson), 2019
+
 WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals  
 **Fei Wang**, Jinsong Han, Feng Lin, and Kui Ren  
 [Oral of Globecom 2019](https://globecom2019.ieee-globecom.org/), 2019
@@ -41,10 +51,6 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 Temporal Unet: Sample Level Human Action Recognition using WiFi  
 **Fei Wang**, Yunpeng Song, Jimuyang Zhang, Jinsong Han, and Dong Huang  
 [arxiv](https://arxiv.org/abs/1904.11953), [code](https://github.com/geekfeiw/WiSLAR), [data](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9Iw), 2019
-
-Person-in-WiFi: Fine-grained Person Perception using WiFi  
-**Fei Wang**, Sanping Zhou, Stanislav Panev, Jinsong Han, and Dong Huang  
-[arxiv](https://arxiv.org/abs/1904.00276), [code](https://github.com/geekfeiw/wifiperson), 2019
 
 
 Can WiFi Estimate Person Pose?  
@@ -71,11 +77,6 @@ _under TII review_,  [code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 
 CSI-Net: Unified Human Body Characterization and Pose Recognition  
 **Fei Wang**, Jinsong Han, Shiyuan Zhang, Xu He, and Dong Huang  
 [arxiv](https://arxiv.org/abs/1810.03064), [code](https://github.com/geekfeiw/CSI-Net), 2018
-
-
-WiPIN: Operation-free Person Identification using WiFi Signals  
-**Fei Wang**, Jinsong Han, Ziyi Dai, Han Ding, and Dong Huang  
-[arxiv](https://arxiv.org/abs/1810.04106), [code](https://github.com/geekfeiw/WiPIN), 2018
 
 
 
