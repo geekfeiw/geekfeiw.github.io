@@ -30,13 +30,20 @@ Continuous User Authentication by Contactless Wireless Sensing
 
 ### Conference
 
+
+
 Person-in-WiFi: Fine-grained Person Perception using WiFi  
 **Fei Wang**, Sanping Zhou, Stanislav Panev, Jinsong Han, and Dong Huang  
 [ICCV 2019](http://iccv2019.thecvf.com/), [arxiv](https://arxiv.org/abs/1904.00276), [code](https://github.com/geekfeiw/wifiperson), 2019
 
+Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification  
+Sanping Zhou, **Fei Wang**, Zeyi Huang, and Jinjun Wang  
+[ICCV 2019](http://iccv2019.thecvf.com/), 2019
+
 WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals  
 **Fei Wang**, Jinsong Han, Feng Lin, and Kui Ren  
 [Oral of Globecom 2019](https://globecom2019.ieee-globecom.org/), 2019
+
 
 Poster Abstract: Security in Uplink MU-MIMO Networks  
 **Fei Wang**, Wei Xi, Jinsong Han, Kun Zhao, and Yuan Gao  
