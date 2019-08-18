@@ -6,12 +6,14 @@ My research interest is building novel sensory systems for human sensing.
 
 ## News
 
-:boom::yum: Our paper, Person-in-WiFi: Fine-grained Person Perception using WiFi, accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019.
+One paper that applies vibration sensors for the Motor Fault Diagnosis accepted by [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), Aug. 18, 2019. 
 
-:yum: Our paper, Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification
+:boom:Our paper, Person-in-WiFi: Fine-grained Person Perception using WiFi, accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019.
+
+Our paper, Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification
 , accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019.
 
-:yum: Our paper, WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals, accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a flagship conference of the IEEE ComSoc, July 18, 2019.
+Our paper, WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals, accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a flagship conference of the IEEE ComSoc, July 18, 2019.
 
 Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
 
@@ -20,19 +22,8 @@ Our paper, [Continuous User Authentication by Contactless Wireless Sensing](http
 ## Publications
 
 
-### Journal
-
-Joint Activity Recognition and Indoor Localization with WiFi Fingerprints  
-**Fei Wang**, Jianwei Feng, Yinliang Zhao, Xiaobin Zhang, Shiyuan Zhang, and Jinsong Han  
-[arxiv](https://arxiv.org/abs/1904.04964), [code](https://github.com/geekfeiw/apl), [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o), 2019, ([IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), IF: 4.098)
-
-Continuous User Authentication by Contactless Wireless Sensing  
-**Fei Wang**, Zhenjiang Li, and Jinsong Han  
-[arxiv](https://arxiv.org/abs/1812.01503), 2018, ([IEEE IoTJ](http://ieee-iotj.org/), IF: 9.515)
 
 ### Conference
-
-
 
 Person-in-WiFi: Fine-grained Person Perception using WiFi  
 **Fei Wang**, Sanping Zhou, Stanislav Panev, Jinsong Han, and Dong Huang  
@@ -56,6 +47,21 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 [poster of HotMobile](http://www.hotmobile.org/2017/papers/posters/WeiXi.pdf), 2017
 
 
+### Journal
+
+Multi-scale Kernel based Residual Convolutional Neural Network for Motor Fault Diagnosis Under Nonstationary Conditions  
+Ruonan Liu, Boyuan Yang, S. Joe Qin, and **Fei Wang**  
+[code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 2019, ([IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), IF:7.377)
+
+Joint Activity Recognition and Indoor Localization with WiFi Fingerprints  
+**Fei Wang**, Jianwei Feng, Yinliang Zhao, Xiaobin Zhang, Shiyuan Zhang, and Jinsong Han  
+[arxiv](https://arxiv.org/abs/1904.04964), [code](https://github.com/geekfeiw/apl), [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o), 2019, ([IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), IF: 4.098)
+
+Continuous User Authentication by Contactless Wireless Sensing  
+**Fei Wang**, Zhenjiang Li, and Jinsong Han  
+[arxiv](https://arxiv.org/abs/1812.01503), 2018, ([IEEE IoTJ](http://ieee-iotj.org/), IF: 9.515)
+
+
 ### Tech Report
 Temporal Unet: Sample Level Human Action Recognition using WiFi  
 **Fei Wang**, Yunpeng Song, Jimuyang Zhang, Jinsong Han, and Dong Huang  
@@ -75,11 +81,6 @@ Sanping Zhou, Jinjun Wang, **Fei Wang**, and Dong Huang
 Motor Fault Diagnosis Under Non-stationary Conditions Using Cascade Convolutional Neural Network  
 Ruonan Liu, **Fei Wang**, Boyuan Yang, and Xuefeng Chen  
 _under MSSP review_,  [code](https://github.com/geekfeiw/fpn-motor-fault), 2019
-
-
-Multi-scale Kernel based Residual Convolutional Neural Network for Motor Fault Diagnosis Under Nonstationary Conditions  
-Ruonan Liu, **Fei Wang**, and Boyuan Yang  
-_under TII review_,  [code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 2019
 
 
 
