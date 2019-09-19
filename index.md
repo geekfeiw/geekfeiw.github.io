@@ -2,7 +2,7 @@
 I am a Phd. student in department of Computer Science and Technology, [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University), advised by [Prof. Jinsong Han](https://scholar.google.com/citations?user=BST50KwAAAAJ&hl=en). Formerly I spent five and half years for B.E. and M.E in this campus on Computer Science, advised by [Prof. Yinliang Zhao](https://scholar.google.com/citations?user=o-DXXd4AAAAJ&hl=en).  Currently I am a visiting student of Human Sensing Lab and DeLight Lab, The Robostics Institute, Carnegie Mellon University, advised by [Dr. Dong Huang](https://www.donghuang-research.com/).  
 My research interest is building novel sensory systems for human sensing.  
 
-### <font color="#dd0000" >I am on the job market now. </font><br /> [CV/Resume](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
+### <font color="#dd0000" >I am looking for a Postdoc position at EU, Canada, AU, SG, HK... (US should also be great if supported not J1 visa). </font><br /> [CV/Resume](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
 
 ## News
 
@@ -50,8 +50,8 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 ### Journal
 
 Multi-scale Kernel based Residual Convolutional Neural Network for Motor Fault Diagnosis Under Nonstationary Conditions  
-Ruonan Liu, Boyuan Yang, S. Joe Qin, and **Fei Wang**  
-[code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 2019, ([IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), IF:7.377)
+Ruonan Liu, **Fei Wang**, Boyuan Yang, and S. Joe Qin   
+[code](https://github.com/geekfeiw/Multi-Scale-1D-ResNet), 2019, ([IEEE TII](https://ieeexplore.ieee.org/document/8842598), IF:7.377)
 
 Joint Activity Recognition and Indoor Localization with WiFi Fingerprints  
 **Fei Wang**, Jianwei Feng, Yinliang Zhao, Xiaobin Zhang, Shiyuan Zhang, and Jinsong Han  
