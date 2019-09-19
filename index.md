@@ -6,18 +6,17 @@ My research interest is building novel sensory systems for human sensing.
 
 ## News
 
+WiPIN was assigned to give an Oral present at [Globecom 2019](https://globecom2019.ieee-globecom.org/), Sep. 13, 2019.
+
 One paper that applies vibration sensors for the Motor Fault Diagnosis accepted by [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), Aug. 18, 2019. 
 
-:boom:Our paper, Person-in-WiFi: Fine-grained Person Perception using WiFi, accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019.
+:boom: 2 papers were accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019. <font color="#dd0000" >see you in Seoul. </font>
 
-Our paper, Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification
-, accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019.
+Our paper accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a flagship conference of the IEEE ComSoc, July 18, 2019. See you in Hawaii this Winter. 
 
-Our paper, WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals, accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a flagship conference of the IEEE ComSoc, July 18, 2019.
+Our paper accepted to be published in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
 
-Our paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964), accepted to be published in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
-
-Our paper, [Continuous User Authentication by Contactless Wireless Sensing](https://arxiv.org/abs/1812.01503), accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019.
+Our paper accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019.
 
 ## Publications
 
