@@ -2,15 +2,15 @@
 I am a Phd. student in department of Computer Science and Technology, [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University), advised by [Prof. Jinsong Han](https://scholar.google.com/citations?user=BST50KwAAAAJ&hl=en). Formerly I spent five and half years for B.E. and M.E in this campus on Computer Science, advised by [Prof. Yinliang Zhao](https://scholar.google.com/citations?user=o-DXXd4AAAAJ&hl=en).  Currently I am a visiting student of Human Sensing Lab and DeLight Lab, The Robostics Institute, Carnegie Mellon University, advised by [Dr. Dong Huang](https://www.donghuang-research.com/).  
 My research interest is building novel sensory systems for human sensing.  
 
-### <font color="#dd0000" >I am looking for a Postdoc position at EU, Canada, AU, SG, HK... (US should also be great if supported not J1 visa). </font><br /> [CV/Resume](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
+### <font color="#dd0000" >I am looking for a Postdoc position. If at US, please offer me visa of H1b. </font><br /> [CV/Resume](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
 
 ## News
 
-WiPin was assigned as an **Oral** present at [Globecom 2019](https://globecom2019.ieee-globecom.org/), Sep. 13, 2019.
+We received the <font color="#dd0000" >BEST PAPER AWARD.</font>  of IEEE GLOBECOM 2019, the CISS Symposium, Dec. 12, 2019.
 
 1 paper that applies vibration sensors for the Motor Fault Diagnosis accepted by [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), Aug. 18, 2019. 
 
-2 papers were accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019. <font color="#dd0000" >see you in Seoul. </font>
+2 papers were accepted by [ICCV 2019](http://iccv2019.thecvf.com/), July 22, 2019. 
 
 1 paper accepted by [Globecom 2019](https://globecom2019.ieee-globecom.org/), a flagship conference of the IEEE ComSoc, July 18, 2019. 
 
@@ -90,7 +90,7 @@ CSI-Net: Unified Human Body Characterization and Pose Recognition
 
 
 ## Awards
-
+Best Paper Award of IEEE GLOBECOM 2019
 China Scholarship Council Fellowship  
 2nd Prize of China High School Biology Olympiad  
 3rd Prize of China High School Chemistry Olympiad
