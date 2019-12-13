@@ -6,7 +6,7 @@ My research interest is building novel sensory systems for human sensing.
 
 ## News
 
-We received the <font color="#dd0000" >BEST PAPER AWARD.</font>  of IEEE GLOBECOM 2019, the CISS Symposium, Dec. 12, 2019.
+We received the <font color="#dd0000" >BEST PAPER AWARD</font>  of IEEE GLOBECOM 2019, the CISS Symposium, Dec. 12, 2019.
 
 1 paper that applies vibration sensors for the Motor Fault Diagnosis accepted by [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), Aug. 18, 2019. 
 
