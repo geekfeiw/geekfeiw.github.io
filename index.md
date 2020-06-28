@@ -69,6 +69,10 @@ Continuous User Authentication by Contactless Wireless Sensing
 
 
 ### Tech Report
+A Framework for Behavior Privacy Preserving in Radio Frequency Signal
+Jianwei Liu, Jinsong Han, Lei Yang, **Fei Wang**, Feng Lin, and Kui Ren
+[arxiv](https://arxiv.org/abs/2004.04909)
+
 Temporal Unet: Sample Level Human Action Recognition using WiFi  
 **Fei Wang**, Yunpeng Song, Jimuyang Zhang, Jinsong Han, and Dong Huang  
 [arxiv](https://arxiv.org/abs/1904.11953), [code](https://github.com/geekfeiw/WiSLAR), [data](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9Iw), 2019
