@@ -6,6 +6,8 @@ My research interest is building novel sensory systems for human sensing.
 
 ## News
 
+1 paper accepted to bu published in [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), June. 21, 2020.
+
 We received the <font color="#dd0000" >BEST PAPER AWARD</font>  of IEEE GLOBECOM 2019, the CISS Symposium, Dec. 12, 2019.
 
 1 paper that applies vibration sensors for the Motor Fault Diagnosis accepted by [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), Aug. 18, 2019. 
@@ -47,6 +49,11 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 
 
 ### Journal
+
+Cascade Convolutional Neural Network with Progressive Optimization for Motor Fault Diagnosis Under Non-stationary Conditions
+**Fei Wang**, Ruonan Liu, Qinghua Hu, and Xuefeng Chen
+2020，([IEEE TII](https://ieeexplore.ieee.org/document/9120176), IF:7.377)
+
 
 Multi-scale Kernel based Residual Convolutional Neural Network for Motor Fault Diagnosis Under Nonstationary Conditions  
 Ruonan Liu, **Fei Wang**, Boyuan Yang, and S. Joe Qin   
