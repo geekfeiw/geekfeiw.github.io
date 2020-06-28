@@ -6,7 +6,7 @@ My research interest is building novel sensory systems for human/event/things se
 
 ## News
 
-1 paper accepted to bu published in [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), June. 21, 2020.
+1 paper accepted to bu published in [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), June 21, 2020.  
 
 We received the <font color="#dd0000" >BEST PAPER AWARD</font>  of IEEE GLOBECOM 2019, the CISS Symposium, Dec. 12, 2019.
 
@@ -50,8 +50,8 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 
 ### Journal
 
-Cascade Convolutional Neural Network with Progressive Optimization for Motor Fault Diagnosis Under Non-stationary Conditions
-**Fei Wang**, Ruonan Liu, Qinghua Hu, and Xuefeng Chen
+Cascade Convolutional Neural Network with Progressive Optimization for Motor Fault Diagnosis Under Non-stationary Conditions  
+**Fei Wang**, Ruonan Liu, Qinghua Hu, and Xuefeng Chen  
 2020，([IEEE TII](https://ieeexplore.ieee.org/document/9120176), IF:7.377)
 
 
@@ -69,8 +69,8 @@ Continuous User Authentication by Contactless Wireless Sensing
 
 
 ### Tech Report
-A Framework for Behavior Privacy Preserving in Radio Frequency Signal
-Jianwei Liu, Jinsong Han, Lei Yang, **Fei Wang**, Feng Lin, and Kui Ren
+A Framework for Behavior Privacy Preserving in Radio Frequency Signal  
+Jianwei Liu, Jinsong Han, Lei Yang, **Fei Wang**, Feng Lin, and Kui Ren  
 [arxiv](https://arxiv.org/abs/2004.04909), 2020
 
 Temporal Unet: Sample Level Human Action Recognition using WiFi  
@@ -101,7 +101,7 @@ CSI-Net: Unified Human Body Characterization and Pose Recognition
 
 
 ## Awards
-Best Paper Award of IEEE GLOBECOM 2019
+Best Paper Award of IEEE GLOBECOM 2019  
 China Scholarship Council Fellowship  
 2nd Prize of China High School Biology Olympiad  
 3rd Prize of China High School Chemistry Olympiad
