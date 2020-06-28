@@ -1,6 +1,6 @@
 ## Biography
 I received the PH.D. degree in Computer Science and Technology, [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University), advised by [Prof. Jinsong Han](https://scholar.google.com/citations?user=BST50KwAAAAJ&hl=en), where I spent five and half years for B.E. and M.E on Computer Science, advised by [Prof. Yinliang Zhao](https://scholar.google.com/citations?user=o-DXXd4AAAAJ&hl=en).  Formely I was a visiting student of Human Sensing Lab and DeLight Lab, The Robostics Institute, Carnegie Mellon University, advised by [Dr. Dong Huang](https://www.donghuang-research.com/) from Oct. 2017 to Oct. 2019.  
-My research interest is building novel sensory systems for human sensing.  
+My research interest is building novel sensory systems for human/event/things sensing.  
 
 ### <font color="#dd0000" >I am looking for a Postdoc position. If at US, please offer me visa of H1b. </font><br /> [CV/Resume](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
 
@@ -71,7 +71,7 @@ Continuous User Authentication by Contactless Wireless Sensing
 ### Tech Report
 A Framework for Behavior Privacy Preserving in Radio Frequency Signal
 Jianwei Liu, Jinsong Han, Lei Yang, **Fei Wang**, Feng Lin, and Kui Ren
-[arxiv](https://arxiv.org/abs/2004.04909)
+[arxiv](https://arxiv.org/abs/2004.04909), 2020
 
 Temporal Unet: Sample Level Human Action Recognition using WiFi  
 **Fei Wang**, Yunpeng Song, Jimuyang Zhang, Jinsong Han, and Dong Huang  
