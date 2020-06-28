@@ -36,9 +36,7 @@ Sanping Zhou, **Fei Wang**, Zeyi Huang, and Jinjun Wang
 
 WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals  
 **Fei Wang**, Jinsong Han, Feng Lin, and Kui Ren  
-[Oral of Globecom 2019](https://globecom2019.ieee-globecom.org/), 2019  
-<font color="#dd0000" >BEST PAPER AWARD</font>
-
+[Oral of Globecom 2019](https://globecom2019.ieee-globecom.org/), 2019 <font color="#dd0000" >BEST PAPER AWARD</font>
 
 Poster Abstract: Security in Uplink MU-MIMO Networks  
 **Fei Wang**, Wei Xi, Jinsong Han, Kun Zhao, and Yuan Gao  
@@ -54,7 +52,6 @@ Wei Xi, Jinsong Han, **Fei Wang**, Xin Li, and Chen Qian
 Cascade Convolutional Neural Network with Progressive Optimization for Motor Fault Diagnosis Under Non-stationary Conditions  
 **Fei Wang**, Ruonan Liu, Qinghua Hu, and Xuefeng Chen  
 2020，([IEEE TII](https://ieeexplore.ieee.org/document/9120176), IF:7.377)
-
 
 Multi-scale Kernel based Residual Convolutional Neural Network for Motor Fault Diagnosis Under Nonstationary Conditions  
 Ruonan Liu, **Fei Wang**, Boyuan Yang, and S. Joe Qin   
