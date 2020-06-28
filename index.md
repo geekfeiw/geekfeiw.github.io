@@ -6,7 +6,7 @@ My research interest is building novel sensory systems for human/event/things se
 
 ## News
 
-1 paper accepted to bu published in [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), June 21, 2020.  
+1 paper accepted to be published in [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), June 21, 2020.  
 
 We received the <font color="#dd0000" >BEST PAPER AWARD</font>  of IEEE GLOBECOM 2019, the CISS Symposium, Dec. 12, 2019.
 
