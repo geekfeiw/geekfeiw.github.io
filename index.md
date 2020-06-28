@@ -36,7 +36,8 @@ Sanping Zhou, **Fei Wang**, Zeyi Huang, and Jinjun Wang
 
 WiPIN: Operation-free Passive Person Identification Using Wi-Fi Signals  
 **Fei Wang**, Jinsong Han, Feng Lin, and Kui Ren  
-[Oral of Globecom 2019](https://globecom2019.ieee-globecom.org/), 2019
+[Oral of Globecom 2019](https://globecom2019.ieee-globecom.org/), 2019  
+<font color="#dd0000" >BEST PAPER AWARD</font>
 
 
 Poster Abstract: Security in Uplink MU-MIMO Networks  
