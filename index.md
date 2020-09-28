@@ -6,6 +6,8 @@ My research interest is building novel sensory systems for human/event/things se
 
 ## News
 
+One 5th-authored paper on Salient Object Detection accepted to be published in [IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), Sep. 27, 2020.    
+
 One 1st-authored paper accepted by [CWSN 2020](https://cwsn2020.aconf.cn/), Aug. 15, 2020.  
   
 One 1st-authored paper accepted to be published in [IEEE TII](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), June 21, 2020.  
